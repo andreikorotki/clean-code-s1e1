@@ -75,8 +75,7 @@ button {
 }
 
 /* Heading */
-.to-do,
-.new-task-label {
+.to-do, .new-task-label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -128,14 +127,14 @@ button {
 }
 
 .task-item > input[type='checkbox'] {
-  margin:0 10px;
+  margin: 0 10px;
 }
 
 .task-item > label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
-  width:226px;
+  width: 226px;
 }
 
 .task-item > input[type='text'] {
@@ -155,7 +154,7 @@ button.delete img:hover {
 /* Completed */
 ul#completed-tasks label {
   text-decoration: line-through;
-  color: #888;
+  color: #888
 }
 
 /* Edit Task */
