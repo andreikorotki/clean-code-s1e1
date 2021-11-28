@@ -75,8 +75,8 @@ button {
 }
 
 /* Heading */
-.to-do,
-  .new-task-label {
+.task-list-title,
+.new-task-label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
